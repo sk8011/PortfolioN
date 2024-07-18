@@ -26,8 +26,8 @@
 	 background-size: 100% 100%;
 	 background-position: center center;
 	 padding: 2rem;
-     height: 660px;
-     background-repeat: no-repeat;
+         height: 100vh;
+         background-repeat: no-repeat;
 }
  .bird {
 	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg);
